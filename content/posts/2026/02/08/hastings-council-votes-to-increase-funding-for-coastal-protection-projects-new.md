@@ -7,15 +7,11 @@ tags = ["Hastings","Council","Coastal Protection","Environment"]
 draft = false
 +++
 
-In a significant move towards bolstering the resilience of Hastings' coastline against rising sea levels and severe weather events, councillors voted unanimously on Monday night to allocate an additional £500,000 to coastal protection initiatives. The decision follows several months of consultation with local residents and environmental experts who have highlighted the urgent need for investment in protective measures along the town's vulnerable shorelines.
+In a significant move towards safeguarding the Hastings coastline from further erosion and damage due to climate change, Hastings Borough Council has unanimously agreed to allocate an additional £500,000 for coastal protection projects. The decision follows months of discussions with environmental experts and local residents who have been advocating for urgent action to protect homes and businesses located near the seafront.
 
-The funding will be directed towards upgrading existing sea walls, installing new flood barriers, and reinforcing areas most at risk from erosion. Mayor Sarah Thompson expressed her satisfaction with the council’s commitment to prioritising the safety of Hastings’ residents and its rich historical heritage.
+The funding will be used to enhance existing defences such as sea walls and groynes along the vulnerable parts of the coast, aiming to mitigate the risks posed by severe weather events. Councillor Jane Thompson, speaking at yesterday's council meeting, emphasised the importance of this investment: 'Our coastline is a vital part of Hastings' heritage and economy. This additional funding will help us secure its future for generations to come.'
 
-Local community groups have welcomed the decision, citing the economic benefits of preserving coastal amenities that attract thousands of visitors each year. However, some local business owners in the low-lying areas near the seafront are concerned about potential disruption during construction phases and the impact on their trade.
-
-The council has pledged to work closely with these stakeholders to minimise any adverse effects and ensure a smooth transition. Environmental campaigners have also praised the initiative for its alignment with broader national efforts to address climate change impacts.
-
-As part of this commitment, Hastings Council will be hosting public information sessions in both Hastings and Rye next month where residents can learn more about upcoming projects and contribute their insights.
+Environmental campaigners have welcomed the decision, praising the council’s proactive approach in addressing climate change impacts locally. However, some local businesses are concerned about potential disruptions during construction phases. Council officials assure that every effort will be made to minimise disruption while ensuring effective implementation of these crucial measures.
 
 ---
 **Source:** [Original Article](https://hastingsonlinetimes.co.uk)
