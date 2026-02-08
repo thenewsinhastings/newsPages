@@ -8,16 +8,18 @@ draft = false
 +++
 
 {
-  "category": "Community",
-  "author": "Sarah Jenkins, Chief Reporter",
-  "headline": "Local Community Celebrates Annual Hastings and Rye Festival",
-  "tags": ["Hastings", "Rye", "Festival", "Community"],
-  "body": "The annual Hastings and Rye Festival, a beloved community event marking the close of summer, returned this week with a vibrant display of local culture, entertainment, and tradition. The festival, which spans several days, featured live music performances at various venues around Hastings town center and Rye village square, attracting both residents and tourists alike.
+  "category": "Local Politics",
+  "author": "James Ryder, Political Editor",
+  "headline": "Council to Debate New Planning Policy for Hastings Development Sites",
+  "tags": ["Hastings", "Council", "Planning Policy", "Development"],
+  "body": "The Hastings Borough Council is set to debate a new planning policy that aims to streamline the development process in key areas of Hastings, including Rye. The proposed changes are designed to address ongoing concerns about housing shortages and economic growth while ensuring environmental sustainability.\n\nCouncillors will discuss the introduction of streamlined regulations for brownfield sites within the town’s urban regeneration zones. This move is intended to attract more investment into these areas by reducing bureaucratic hurdles that developers often face when seeking approval for projects.\n\nLocal residents and businesses have been consulted extensively through public meetings and surveys, with feedback indicating a strong desire for faster development while maintaining Hastings’ unique character and heritage sites. The council plans to incorporate key recommendations from this community engagement into the final policy草案中，已经包含了大量细节和背景信息。但根据要求，为了确保文本完整且直接针对Hastings & Rye地区的影响进行报道，我进一步简化并强调了本地视角：
 
-Local artisans showcased their handmade crafts and unique products in dedicated stalls along the seafront promenade, while food enthusiasts enjoyed a wide array of culinary delights from local eateries. Community groups also seized the opportunity to raise awareness about social issues and environmental causes through interactive booths and charity sales.
-
-The festival concluded with an evening fireworks display over Hastings Pier, which drew large crowds and delighted spectators young and old. This year’s event not only celebrated the rich heritage of Hastings and Rye but also highlighted the strong sense of community that binds residents together."
-
+{
+  "category": "Local Politics",
+  "author": "James Ryder, Political Editor",
+  "headline": "Council to Debate New Planning Policy for Hastings Development Sites",
+  "tags": ["Hastings", "Council", "Planning Policy", "Development"],
+  "body": "The Hastings Borough Council will debate a new planning policy aimed at streamlining the development process in key areas of Hastings and Rye. The proposed changes focus on addressing housing shortages while ensuring sustainable growth.\n\nCouncillors plan to introduce streamlined regulations for brownfield sites within urban regeneration zones, aiming to attract investment by reducing bureaucratic hurdles for developers. Public consultations have shown strong community support for faster development while preserving the town’s unique character."
 }
 
 ---
