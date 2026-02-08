@@ -8,19 +8,20 @@ draft = false
 +++
 
 {
-  "category": "Community",
-  "author": "Sarah Jenkins, Chief Reporter",
-  "headline": "Hastings and Rye Celebrate Local Heroes at Annual Awards Ceremony",
-  "tags": ["Hastings", "Rye", "Community Events", "Local Heroes"],
-  "body": "The annual Hastings & Rye Community Awards ceremony was held last night, celebrating the outstanding contributions of local individuals to their communities. The event, organised by Hastings Borough Council and Rye Town Council, attracted a large crowd eager to see who would be honoured with awards for categories such as Volunteer of the Year, Youth Achievement, and Lifetime Contribution.
+  "category": "Local Politics",
+  "author": "James Ryder, Political Editor",
+  "headline": "Council Approves New Affordable Housing Initiative in Hastings & Rye",
+  "tags": ["Hastings", "Rye", "Affordable Housing", "Council"],
+  "body": "The Hastings and Rye Borough Council has approved a new initiative aimed at addressing the ongoing housing crisis by introducing more affordable homes for local residents. The plan, which was passed during last night's council meeting, includes the development of several new housing projects within both Hastings and Rye towns.
 
-Among this year's recipients was John Smith, a long-time volunteer at the local food bank in Rye. Mr Smith was recognised for his dedication over many years to helping those in need within the community. Speaking after receiving his award, Mr Smith said, 'It is an honour to be acknowledged by my peers and I hope it encourages others to get involved.'
+According to Councillor Jane Smith, who spoke in favor of the proposal, “This is a significant step forward for our community as it aims to provide more affordable options for first-time buyers and families struggling with rising house prices.”
 
-Another notable recipient was Emma Jones, who received the Youth Achievement Award for her work raising awareness about mental health issues among young people through a series of workshops and seminars she organised at local schools.
+The initiative includes the conversion of existing properties into affordable housing units and the construction of new homes on previously underutilized land. Critics argue that while the scheme represents progress, it may not be enough to alleviate the acute shortage in affordable homes.
 
-The ceremony also featured performances from local musicians and school choirs, adding to the celebratory atmosphere. Councillor Sarah Green, Mayor of Hastings, praised the award recipients during her speech: 'Each one of these individuals is making our communities stronger and more vibrant through their hard work and selflessness.'
+Local residents are cautiously optimistic about the outcome. “It’s great to see action being taken, but there is still a lot more work needed,” said resident Mark Thompson during an interview with our reporter Sarah Jenkins.
 
-As the event concluded, many attendees agreed that it was a wonderful showcase of the rich community spirit in Hastings and Rye."
+The council has set aside £2 million for this project over the next two years and plans to seek further funding from government grants and partnerships with private developers."
+
 }
 
 ---
