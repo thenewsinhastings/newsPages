@@ -10,19 +10,15 @@ draft = false
 {
   "category": "Local Politics",
   "author": "James Ryder, Political Editor",
-  "headline": "Council Approves New Funding for Hastings Coastal Defences",
-  "tags": ["Hastings", "Council", "Coastal Defences", "Funding"],
-  "body": "The Hastings Borough Council has approved a significant funding allocation to enhance coastal defences in the town, addressing long-standing concerns over flood risks and erosion. The decision was made at a council meeting on Thursday evening and includes £2 million for immediate improvements and an additional £500,000 for ongoing maintenance.
+  "headline": "Council Proposes New Budget Allocations Amid Economic Challenges",
+  "tags": ["Hastings", "Rye", "Budget", "Economy", "Politics"],
+  "body": "The Hastings Borough Council is set to introduce a new budget proposal aimed at addressing the financial challenges faced by the local community. The council's finance committee, chaired by Councillor Jane Smith, has proposed an allocation of funds that prioritizes essential services such as education and health care while seeking to cut non-essential expenditures.
 
-The funding will be used to upgrade existing sea walls, construct new barriers where needed, and implement environmental measures such as beach nourishment to protect the coastline. The project is part of a wider initiative aimed at safeguarding coastal communities from the increasing threat of climate change-induced flooding.
+The proposed budget also includes investments in infrastructure projects designed to stimulate economic growth in Hastings and Rye. A major focus is the redevelopment of the seafront area to attract more tourism and businesses. However, concerns have been raised by some councillors about the potential impact on local residents if further services are scaled back to meet financial targets.
 
-Councillor Jane Smith, chair of the council’s Environment Committee, said: 'This investment demonstrates our commitment to protecting our residents and businesses against the impacts of climate change. We have been working closely with local stakeholders, including environmental groups and engineering experts, to ensure that these improvements are both effective and sustainable.'
+Councillor Smith stated that the budget proposal is a necessary step towards ensuring long-term sustainability for the borough. 'We need to make tough decisions now to secure our future,' she said in a press conference at the Town Hall yesterday. The council will hold public consultations over the next few weeks, inviting residents and businesses to provide feedback on the proposed changes.
 
-Local residents have expressed mixed feelings about the decision, with some welcoming the support for coastal protection while others have raised concerns over potential disruption during construction.
-
-Dr. Alan Mercer, an independent environmental consultant based in Hastings, commented: 'This is a positive step towards mitigating future risks, but it’s important that we continue to advocate for greater national funding and policy changes to tackle climate change at its source.'
-
-The council will now begin the tendering process for contractors to start work on the project as soon as possible. Residents interested in participating in public consultations or learning more about the project can contact their local councillor or visit the council's website."
+The budget debate is expected to be a key topic during the upcoming council meeting scheduled for February 24th, where councillors will vote on whether to approve the new financial plan."
 
 }
 
