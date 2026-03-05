@@ -3,17 +3,19 @@ title = "Local Groups Unite to Promote Community Energy Initiatives in Hastings 
 date = "2026-03-05"
 author = "Sarah Jenkins, Chief Reporter"
 categories = ["Community"]
-tags = ["Hastings","Rye","Energy","Community"]
+tags = ["Hastings","Rye","Energy","Sustainability","Communities"]
 draft = false
 +++
 
-In a bid to enhance local sustainability efforts, several community groups in Hastings and Rye have joined forces to advocate for the expansion of renewable energy projects within their region. The initiative aims to 'unlock community energy at scale,' thereby reducing dependency on non-renewable resources while fostering economic growth through investment in green technology.
+In a bid to enhance local sustainability efforts, several community groups in Hastings and Rye have rallied together to advocate for the 'unlocking of community energy at scale.' This initiative aims to empower residents with more control over their energy sources while promoting environmental stewardship.
 
-The coalition includes representatives from local environmental organizations, business networks, and educational institutions who believe that collaborative efforts are essential for achieving significant progress in the realm of sustainable development. By working together, they hope to secure funding and support from both regional authorities and private investors to implement large-scale renewable energy solutions such as solar farms and wind turbines.
+The coalition includes representatives from the Hastings Green Network, Energywise Rye, and the Hastings Renewable Energy Cooperative. These groups are seeking support from local authorities to facilitate the development of grassroots renewable projects across both towns. By encouraging community-driven solutions, organizers hope to reduce carbon emissions and lower energy costs for households while fostering a sense of ownership and responsibility among residents.
 
-According to Sarah Johnson, a spokesperson for one of the participating groups, 'This is an exciting opportunity for Hastings and Rye to lead the way in adopting sustainable practices that benefit our environment and local economy alike. We are calling on all residents and stakeholders to get involved and support these important initiatives.'
+Speaking on behalf of the coalition, Jane Thompson from Energywise Rye stated, 'Community-led initiatives are crucial in our transition towards sustainable living. We believe that by working together, we can create meaningful change at both an individual and community level.'
 
-The proposed projects not only promise environmental benefits but also potential economic advantages, including job creation and reduced energy costs for community members. As discussions continue with relevant authorities, the coalition remains optimistic about the future of renewable energy in Hastings and Rye.
+The call to action comes as part of a broader movement gaining momentum nationally, with similar efforts being reported across the UK. Local councillors have been invited to participate in upcoming workshops to discuss potential partnerships between government bodies and grassroots organizations.
+
+For more information on how you can get involved or support these initiatives, visit www.hastingsenergy.org.
 
 ---
-**Source:** [Original Article](https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0p0UEw3b0tLcjltS3VPTUhNWkduVzFOUDEwYVRQamVrb1Nvam5DaUNnOHRCd0xDTjRoYldrcWJmZVZQZWFQOWxpaUFXVTVVbXRuQUZOSl8tTzJpOGxhd3owN1F3M1k3YWZqWm5FSERoZW1tUzJzX1N4NDgtbjVuYmNwTVdpWjJFMkdvMG9ObmhuYXZnTWd5UFFEMVpBQlE2TlhOcDJuR0R3WlpFbFFrZDRxQTdUcVpVRDdtUTBKQU1hY1VwTGMyaGtaeExNQk9oVzJtTTM4cDB5QXRMa25jQzZlTXp0Y3RRRTFOakF6TURBUXkybEppd0RSWnpnVkRrUWxPQmZiSFJyZG1sbDdBMHhWWTZnTFk4cXhMM25LUGVvSjFCQ1pYQUtNRE9uY284a3lEVTdFeHBvb0FqZGRkTzV6QmhsMWhsUUNwQ1JrSFpYbHpxRURnUXhPcGhWQjBxQndKSk5LMEIyNlEyUFB3a2R4QkFaMG9uQ0dZU0FvSEx1QmM4V0t1NENpUjFOYzUzaFJrTnlaWE9qTk1wZ28xLW5hQUN6bEJKWlRQcGFXaFFzSDFkQUFBQUFBQUFB?oc=5)
+**Source:** [Original Article](https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0p0UEw3b0tLcjltS3VPTUhNWkduVzFOUDEwYVRQamVrb1Nvam5DaUNnOHRCd0xDTjRoYldrcWJmZVZQZWFQOWxpaUFXVTVVbXRuQUZOSl8tTzJpOGxhd3owN1F3M1k3YWZqWm5FSERoZW1tUzJzX1N4NDgtbjVuYmNwTVdpWjJFMkdvMG9ObmhuYXZnTWd5UFFFeGhHb2VvT2s?oc=5)
