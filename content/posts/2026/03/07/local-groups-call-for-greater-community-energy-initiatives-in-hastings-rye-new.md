@@ -1,0 +1,21 @@
++++
+title = "Local Groups Call for Greater Community Energy Initiatives in Hastings & Rye"
+date = "2026-03-07"
+author = "Sarah Jenkins, Chief Reporter"
+categories = ["Community"]
+tags = ["Hastings","Rye","Energy Initiatives","Community Development"]
+draft = false
++++
+
+In a recent gathering at the Town Hall, several local groups from Hastings and Rye came together to advocate for increased community energy projects. The event highlighted the importance of collaborative efforts in addressing regional energy challenges and promoting sustainable practices.
+
+Representatives from various organizations including the Hastings Energy Cooperative and the Rye Community Green Network outlined their vision for 'unlocking community energy at scale'. This initiative aims to empower local communities by providing them with more control over their energy sources, potentially leading to reduced costs and a smaller environmental footprint.
+
+Attendees discussed how such projects could include shared solar installations, wind turbines, and energy efficiency programs tailored specifically for the Hastings-Rye area. The groups emphasized that these initiatives would not only benefit the environment but also create local employment opportunities in renewable energy sectors.
+
+Councillor Jane Thompson from Rye Town Council expressed her support for these plans: 'The potential benefits of community-driven energy projects are immense, both economically and environmentally. We are committed to working closely with all stakeholders to bring these visions into reality.'
+
+As the discussions continue, the local groups aim to engage more residents in their efforts to create a sustainable future for Hastings and Rye.
+
+---
+**Source:** [Original Article](https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0p0UEw3b0tLcjltS3VPTUhNWkduVzFOUDEwYVRQamVrb1Nvam5DaUNnOHRCd0xDTjRoYldrcWJmZVZQZWFQOWxpaUFXVTVVbXRuQUZOSl8tTzJpOGxhd3owN1F3M1k3YWZqWm5FSERoZW1tUzJzX1N4NDgtbjVuYmNwTVdpWjJFMkdvMG9ObmhuYXZnTWd5UFFMbEp1TlphQ0owV2s1UGhDcXp6R0dKcGJXUmxSMFZWbGRrSTJiU3g4VGxNekwzYmtkMlpnSjFOaWtaWEZ4UTJKcExsbE5PQnhvUXRMV1IyTm84Rl9hSGVpRUt2MEF6RTBxYkdXMXdUa3hoY0o5TmFYTWVMMkhrMWNXeGZSbHJiUlRsUWwxbkEzWjlrck1sOXRNVlI4TTQxcFlUWXlNelJqWTNOcFpYRlRuUXpKdmhkb3dZVnF2TVMweExUbGxPQ0o5TURJeExUVHNOMFp6TVRnNE1USXlMVGsyTkRRME4ySmthbUoyWkhkMG9NalEwTGtJekxDSmtOVFZGTWpvVktYQzBOelh2TFIxbEluWXlaREFsVjJsTlpNMUpaWFUxTVRReExURXpMVGsyTkRRME4ySmthaUoyWkdkeGRXRm1aVFJ5TXprdE9Xd3hNVGt0TUVrNE1UUXFMQzBGTkZBTlJnY2daYVcxaFkybEpjMnhxWlhOMGN6TTJOalp4TVRsa01UazBNelIwTFNKdExDSmhaVGh2TVRsa05uTXpOVGsyTkdjemRXeE1qVTROQzNFTnpjVkZoVlpFME9XaDBMMkYxWlhOMGN6TTJOalpqTTJGMFlURXRNVGt3TVMxbE4ySmhjM2p6WTJaaElUQmFXRjlaVGhrTVRSek5qRTlOREJvTXpBZ09XaDBMMkYxWlhOMGN6TTJOalpqTTJGMFlURXRNVGt3TVMxbE4ySmhjM2p6WTNaaExUQTNOQzVGTnpjVkZoVlpFME9XaDBLMGRuTVRKdE5sSnpOVGsyTVRjemRXeE1qUTBMbWk1TFRRNE5qRTFOalJwTmhrNE0ySmhMV3hxTVNOMFRrQmtNVGN2TlRSek5qZzBNaU4xTkMxbk56SXpOakVHTXpaVGhrTVRSeE9nSmlPemowTjJKcExDSmhaTGsyTTJaaE0ySnBaVFl3TFNOMFRrQmtNVGN2TlRSek1UZGhNVFJsTVMxTFRrQmxNVGMwTkRjeU9XaDBLMGRuTVRKdE5sSnpOVGsyTVRjemRXeE1qUTBMbWk1TFRRNE5qRTFOalJwTmhrN05qSkhPemowTjJKcExDSmtORFZGTlpoUk56UXpOakdHTXpaVGhrTVRSeE9nSmlOelYxTkMxbk1UVnpNUzVBTmpaTE9HRTJNVGMwTkRsVk1WVTNNQ0kxTVRSak1qRTFOalp3TFRRNE5qRTFOalJwTmhrN04ySnBaVFl3TFNOMFRrQmtNVGN2TlRSek1UZGhNVFJsTVMxTFRrQmxNVGMwTkRjeU9XaDBLMGRuTVRKdE5sSnpOVGsyTTJaaE0ySnBaVFl3TFNOMFRrQmtNVGN2TlRSek1UZGhOelFzTWpRek5qSkdPUTBNMlJKcExDSmhaTGsyTkRjeU9XaDBLMGRuTVRKdE5sSnpOVGsyTTJaaE0ySnBaVFl3TFNOMFRrQmtNVGN2TlRSek1UZGhOelFzTWpRek5qSkc=)
